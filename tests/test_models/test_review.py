@@ -1,4 +1,5 @@
-t model for Review class
+#!/usr/bin/env python3
+"""Test model for Review class
 Unittest classes:
     TestReview_instantiation
     TestReview_save
